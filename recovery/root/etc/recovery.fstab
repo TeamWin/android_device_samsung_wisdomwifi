@@ -22,5 +22,5 @@
 /cache          ext4   /dev/block/platform/13500000.dwmmc0/by-name/cache         flags=display="Cache"
 
 /external_sd    vfat   /dev/block/platform/13550000.dwmmc2/mmcblk1p1                flags=display="Micro SDcard";storage;wipeingui;removable
-/usb-otg        vfat   /dev/block/platform/13600000.usb/sda1                         flags=display="USB-OTG";storage;wipeingui;removable
+/usb-otg        vfat   /dev/block/platform/13600000.usb/13600000.dwc3/xhci-hcd.4.auto/sda1   flags=display="USB-OTG";storage;wipeingui;removable
 
