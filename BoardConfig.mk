@@ -63,7 +63,7 @@ BOARD_ROOT_EXTRA_FOLDERS := bluetooth dsp firmware persist
 
 # Release related flags
 PLATFORM_VERSION := 9
-PLATFORM_SECURITY_PATCH := 2021-02-23
+PLATFORM_SECURITY_PATCH := 2019-11-01
 
 # Kernel
 BOARD_KERNEL_CMDLINE := androidboot.selinux=permissive
